@@ -1,0 +1,14 @@
+{
+    "name": "jorge/testing",
+    "type": "library",
+    "description": "Testing",
+    "keywords": ["jorge", "testing"],
+    "homepage": "https://jorgeemanoel.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jorge Emanoel",
+            "email": "eu.jorge.emanoell@gmail.com"
+        },
+    ],
+}
