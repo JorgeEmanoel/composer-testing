@@ -10,5 +10,10 @@
             "name": "Jorge Emanoel",
             "email": "eu.jorge.emanoell@gmail.com"
         }
-    ]
+    ],
+		"autoload": {
+        "psr-4": {
+            "Jorgeemanoel\\Testing\\": "src"
+        }
+    },
 }
